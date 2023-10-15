@@ -1,14 +1,14 @@
-{ "name"   : "John Smith",
-  "sku"    : "20223",
-  "price"  : 23.95,
-  "shipTo" : { "name" : "Jane Smith",
-               "address" : "123 Maple Street",
-               "city" : "Pretendville",
-               "state" : "NY",
-               "zip"   : "12345" },
-  "billTo" : { "name" : "John Smith",
-               "address" : "123 Maple Street",
-               "city" : "Pretendville",
-               "state" : "NY",
-               "zip"   : "12345" }
-}
+[
+    //Barbearia
+    "https://pbr-str.srvsite.com/arquivos/9466/destaque-9466-20231014012524.png",
+    //LM Pavimentacoes
+    "https://pbr-str.srvsite.com/arquivos/9466/destaque-9466-20231014012559.png",
+    //LavaCar Tchua
+    "https://pbr-str.srvsite.com/arquivos/9466/destaque-9466-20231014012620.png",
+    //Mecanica Tatinho
+    "https://pbr-str.srvsite.com/arquivos/9466/destaque-9466-20231014012643.png",
+    //Combustiveis
+    "https://pbr-str.srvsite.com/arquivos/9466/destaque-9466-20231014012704.png",
+    //Xixo
+    "https://pbr-str.srvsite.com/arquivos/9466/destaque-9466-20231014012727.png"
+]
